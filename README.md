@@ -2,7 +2,7 @@
 
 ## 🧑About me
 웹 프론트엔드 개발자를 목표로 꾸준히 역량 강화에 힘쓰고 있습니다.<br />
-[Notion portfolio](https://real-bird.notion.site/Portflio-3b4450a511514bc1b5518378e4640c30)
+[Portfolio Blog](https://real-bird.vercel.app/)
 
 ## 💻 Tech stack
 ### main
@@ -23,6 +23,7 @@
 ## 🙋‍♂️ Personal Projects
 |Title|Description|Stack|Github-Repo|Develop-Date|
 |:---:|:---:|:---:|:---|---:|
+|**[My Ground](https://real-bird.vercel.app/)**|개인 블로그|![Next.js](https://img.shields.io/badge/-000000?style=flat&logo=Next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-06B6D4?style=flat&logo=Tailwind%20CSS&logoColor=white) ![Prisma](https://img.shields.io/badge/-2D3748?style=flat&logo=Prisma&logoColor=white) ![PlanetScale](https://img.shields.io/badge/-000000?style=flat&logo=PlanetScale&logoColor=white)|[![mygroundRepo](https://img.shields.io/badge/MyGround--181717?style=social&logo=Github&logoColor=black)](https://github.com/Real-Bird/my-ground)|![developDate](https://img.shields.io/badge/22.07.10-22.07.29-ffffff?style=flat)|
 |**[Save 2Day](https://real-bird.github.io/save2day)**|일정 관리 웹|![html5](https://img.shields.io/badge/-E34F26?style=plastic&logo=HTML5&logoColor=white) ![javascript](https://img.shields.io/badge/-F7DF1E?style=plastic&logo=javascript&logoColor=white) ![CSS3](https://img.shields.io/badge/-1572B6?style=plastic&logo=CSS3&logoColor=white) ![React](https://img.shields.io/badge/-61DAFB?style=plastic&logo=React&logoColor=white) ![FireBase](https://img.shields.io/badge/-FFCA28?style=plastic&logo=FireBase&logoColor=white)|[![save2dayRepo](https://img.shields.io/badge/Save2Day--181717?style=social&logo=Github&logoColor=black)](https://github.com/Real-Bird/save2day)|![developDate](https://img.shields.io/badge/22.02.22-22.03.27-ffffff?style=flat)|
 
 ## 👨‍👩‍👧‍👦 Team Projects
